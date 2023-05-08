@@ -22,3 +22,4 @@
 
 print(type('Davi'))
 print(type(1.5))
+print ('a'+'c')

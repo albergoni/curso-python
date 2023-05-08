@@ -2,7 +2,7 @@
 nome = "Davi"
 sobrenome = "Souza Antunes"
 idade  = 43
-ano_nascimento = 1980
+ano_nascimento = 2023 - idade
 maior_de_idade = idade >= 18
 altura_metros = 1.86
 
